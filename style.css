@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+img{
+  border-radius: 8px;
+}
+h1{
+  text-align: center;
+  color: black;
+  padding: 1rem;
+  font-family: 'Baloo Bhai2', sans-serif;
+  background-color:aliceblue;
+}
+body{
+  background-color:black;
+  margin: 0px;
+  padding: 0px;
+}
+h2{
+  color: black;
+  text-align: center;
+  font-family: 'Baloo Bhai2', sans-serif;
+  background-color: aliceblue;
+}
+a {
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
+p{
+  color: aliceblue;
+}
+nav ul{
+  list-style-type: none;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+.Menu{
+  background-color: black;
+  padding: 0;
+  list-style-type: none;
+}
+ol{
+  text-indent: 32px;
+  list-style-type: none;
+}
+.Cars{
+  color: aliceblue;
+  padding: 0;
+  list-style-type: none;
+  background-color: black;
+}
+.WEB{
+  color: aliceblue;
+}
+.wallpaper{
+  background-color: aliceblue;
+  padding: 32px;
+}
+.Download{
+  color: black;
+  padding: 1rem;
+  background-color: blueviolet;
+  border-radius: 2000px;
+}
